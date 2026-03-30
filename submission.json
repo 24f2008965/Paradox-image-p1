@@ -1,0 +1,6 @@
+{
+  "prompt": "A wide-angle, high-contrast photograph captures a massive murmuration of starlings moving through a dramatic twilight sky. A profound visual contradiction defines the image. The global, macroscopic shape of the entire colossal flock forms an unmistakable, massive sweep rising powerfully upwards and accelerating to the right. However, if the viewer examines any specific local cluster of 10-20 birds within that flock, those individual birds are simultaneously angled and diving sharply downwards and to the left. The unresolved visual tension creates an uncanny, paradoxical sensation. Hyper-detailed, photorealistic, cinematic lighting with rich blues and oranges in the clouds. Strictly no text, no numbers, and no chart elements within the image.",
+  "model": "Gemini 3 Flash Image",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "The macroscopic shape of the flock curves aggressively upward to the right, yet every local subgroup of 10-20 birds is clearly angled downwards and to the left, creating an unresolved visual contradiction of trend reversal."
+}
